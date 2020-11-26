@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606352603018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "76052560",
+    "id" : "E4E039AB",
+    "lastKnownWriteTime" : 1606330162,
+    "last_content_update" : 1606330162,
+    "path" : "~/curs/scripts/install_packages.R",
+    "project_path" : "scripts/install_packages.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

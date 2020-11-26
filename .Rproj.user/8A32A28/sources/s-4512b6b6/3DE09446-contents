@@ -1,0 +1,10 @@
+## llibreires
+library(oligo,lib =  "/home/Rlibs/")
+library(oligoData,lib =  "/home/Rlibs/")
+library(GEOquery,lib =  "/home/Rlibs/")
+library(dplyr,lib =  "/home/Rlibs/")
+library(labeling,lib =  "/home/Rlibs/")
+library(farver,lib =  "/home/Rlibs/")
+library(withr,lib =  "/home/Rlibs/")
+library(ggplot2,lib =  "/home/Rlibs/")
+library(arrayQualityMetrics,lib =  "/home/Rlibs/")
